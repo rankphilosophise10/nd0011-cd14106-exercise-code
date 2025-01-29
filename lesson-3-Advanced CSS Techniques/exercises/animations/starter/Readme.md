@@ -1,4 +1,4 @@
-# **Animated Backgrounds**
+# **Animations and Transitions**
 
 ## **Summary**
 
