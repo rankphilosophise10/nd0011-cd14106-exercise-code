@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  margin: 20%;
+  background-color: aqua;
+}
+
+.circle {
+  width: 150px;
+  height: 150px;
+  margin: 5%;
+  background-color: pink;
+  border-radius: 50%;
+}
