@@ -1,0 +1,1 @@
+This exercise does not include a predefined solution. Students are encouraged to build upon an existing project or exercise from the course, resulting in unique and varied solutions tailored to their individual approaches.
