@@ -10,6 +10,8 @@ body {
   flex-direction: row;
   width: 20vh;
   height: 20vh;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
 }
 
 .scoll_container div {
@@ -21,4 +23,5 @@ body {
   background-color: aqua;
   color: white;
   font-size: 2rem;
+  scroll-snap-align: start;
 }
